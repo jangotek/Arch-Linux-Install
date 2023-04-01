@@ -2,3 +2,5 @@
 Install Arch Linux with KDE
 
 This will help you to install Arch Linux with KDE Desktop Environment with terminal
+
+Just type on terminal archinstall then follow all steps.
